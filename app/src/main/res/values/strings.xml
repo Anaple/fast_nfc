@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FastNfc</string>
+    <string name="title_activity_main">FastNfcT</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="read_value">读取值</string>
+
+
+</resources>
